@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Ashay 👋
 
 <!--
 **ashay1001/ashay1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 
+- 📫 How to reach me: [Email](mailto:ashay165@gmail.com?subject=[GitHub])
 -->
 
 |<img src="https://github-readme-stats.vercel.app/api?username=ashay1001&count_private=true&show_icons=true&hide=contribs,prs,issues&hide_border=true&custom_title=Total%20Commits"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashay1001&layout=compact&show_icons=true&exclude_repo=AppEngine_Weather&hide_border=true"> |
