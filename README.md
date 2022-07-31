@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 
-- 📫 How to reach me: [Email](mailto:ashay165@gmail.com?subject=[GitHub])
+- 📫 : [Linkedin](https://www.linkedin.com/in/ashaynetke/) | [Leetcode](https://www.leetcode.com/as1001) | [ashay165@gmail.com](mailto:ashay165@gmail.com?subject=[GitHub])
 -->
+- 📫 : [Linkedin](https://www.linkedin.com/in/ashaynetke/) | [Leetcode](https://www.leetcode.com/as1001) | [ashay165@gmail.com](mailto:ashay165@gmail.com?subject=[GitHub])
 
 |<img src="https://github-readme-stats.vercel.app/api?username=ashay1001&count_private=true&show_icons=true&hide=contribs,prs,issues&hide_border=true&custom_title=Total%20Commits"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashay1001&layout=compact&show_icons=true&exclude_repo=AppEngine_Weather&hide_border=true"> |
 | ------------- | ------------- |
