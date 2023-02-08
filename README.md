@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 
-- 📫 : [Linkedin](https://www.linkedin.com/in/ashaynetke/) | [Leetcode](https://www.leetcode.com/as1001) | [ashay165@gmail.com](mailto:ashay165@gmail.com?subject=[GitHub])
+- 📫 : [Linkedin](https://www.linkedin.com/in/ashaynetke/) | [Leetcode](https://www.leetcode.com/ashay_9110) | [ashay165@gmail.com](mailto:ashay165@gmail.com?subject=[GitHub])
 -->
 - 📫 : [Linkedin](https://www.linkedin.com/in/ashaynetke/) | [Leetcode](https://www.leetcode.com/as1001) | [ashay165@gmail.com](mailto:ashay165@gmail.com?subject=[GitHub])
 
